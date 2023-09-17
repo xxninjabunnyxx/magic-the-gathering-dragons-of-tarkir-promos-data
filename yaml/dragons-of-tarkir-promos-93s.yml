@@ -1,0 +1,112 @@
+---
+object: card
+id: a3f3a2f5-12ac-45ef-9ff3-076b40643692
+oracle_id: 28dd0ae4-fc56-4abf-af24-6c6c8d0a10cd
+multiverse_ids: []
+tcgplayer_id: 97032
+cardmarket_id: 282019
+name: Damnable Pact
+lang: en
+released_at: '2015-03-27'
+uri: https://api.scryfall.com/cards/a3f3a2f5-12ac-45ef-9ff3-076b40643692
+scryfall_uri: https://scryfall.com/card/pdtk/93s/damnable-pact?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/3/a3f3a2f5-12ac-45ef-9ff3-076b40643692.jpg?1562876273
+  normal: https://cards.scryfall.io/normal/front/a/3/a3f3a2f5-12ac-45ef-9ff3-076b40643692.jpg?1562876273
+  large: https://cards.scryfall.io/large/front/a/3/a3f3a2f5-12ac-45ef-9ff3-076b40643692.jpg?1562876273
+  png: https://cards.scryfall.io/png/front/a/3/a3f3a2f5-12ac-45ef-9ff3-076b40643692.png?1562876273
+  art_crop: https://cards.scryfall.io/art_crop/front/a/3/a3f3a2f5-12ac-45ef-9ff3-076b40643692.jpg?1562876273
+  border_crop: https://cards.scryfall.io/border_crop/front/a/3/a3f3a2f5-12ac-45ef-9ff3-076b40643692.jpg?1562876273
+mana_cost: "{X}{B}{B}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Target player draws X cards and loses X life.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 7f424509-214f-4d0e-91ab-18a99e83afef
+set: pdtk
+set_name: Dragons of Tarkir Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/7f424509-214f-4d0e-91ab-18a99e83afef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdtk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdtk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a3f3a2f5-12ac-45ef-9ff3-076b40643692/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A28dd0ae4-fc56-4abf-af24-6c6c8d0a10cd&unique=prints
+collector_number: 93s
+digital: false
+rarity: rare
+flavor_text: |-
+  "Silumgar's mind is a dark labyrinth, full of grim secrets and subtle traps."
+  —Siara, the Dragon's Mouth
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zack Stella
+artist_ids:
+- 17bc7f55-958b-43f4-bb40-09746d05b3f9
+illustration_id: 55cf5747-e363-4d94-83ea-dcaeb04960db
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 1774
+penny_rank: 6574
+prices:
+  usd: 
+  usd_foil: '2.93'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.45'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Damnable+Pact&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Damnable+Pact&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Damnable+Pact
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/97032?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Damnable+Pact&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Damnable+Pact&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

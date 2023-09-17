@@ -1,0 +1,115 @@
+---
+object: card
+id: 60de919e-bb7d-473a-a5eb-b2343e5c35ba
+oracle_id: e6bfac15-ec3c-4a55-946a-0b4514eabafd
+multiverse_ids: []
+tcgplayer_id: 97031
+cardmarket_id: 282060
+name: Profaner of the Dead
+lang: en
+released_at: '2015-03-27'
+uri: https://api.scryfall.com/cards/60de919e-bb7d-473a-a5eb-b2343e5c35ba
+scryfall_uri: https://scryfall.com/card/pdtk/70s/profaner-of-the-dead?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/0/60de919e-bb7d-473a-a5eb-b2343e5c35ba.jpg?1562876219
+  normal: https://cards.scryfall.io/normal/front/6/0/60de919e-bb7d-473a-a5eb-b2343e5c35ba.jpg?1562876219
+  large: https://cards.scryfall.io/large/front/6/0/60de919e-bb7d-473a-a5eb-b2343e5c35ba.jpg?1562876219
+  png: https://cards.scryfall.io/png/front/6/0/60de919e-bb7d-473a-a5eb-b2343e5c35ba.png?1562876219
+  art_crop: https://cards.scryfall.io/art_crop/front/6/0/60de919e-bb7d-473a-a5eb-b2343e5c35ba.jpg?1562876219
+  border_crop: https://cards.scryfall.io/border_crop/front/6/0/60de919e-bb7d-473a-a5eb-b2343e5c35ba.jpg?1562876219
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Creature — Naga Wizard
+oracle_text: |-
+  Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+  When Profaner of the Dead exploits a creature, return to their owners' hands all creatures your opponents control with toughness less than the exploited creature's toughness.
+power: '3'
+toughness: '3'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Exploit
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 7f424509-214f-4d0e-91ab-18a99e83afef
+set: pdtk
+set_name: Dragons of Tarkir Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/7f424509-214f-4d0e-91ab-18a99e83afef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdtk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdtk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/60de919e-bb7d-473a-a5eb-b2343e5c35ba/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae6bfac15-ec3c-4a55-946a-0b4514eabafd&unique=prints
+collector_number: 70s
+digital: false
+rarity: rare
+watermark: silumgar
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vincent Proce
+artist_ids:
+- d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a
+illustration_id: 602c6a00-27cb-4182-9b14-a9d66b587490
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 9409
+penny_rank: 10954
+prices:
+  usd: 
+  usd_foil: '1.49'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.69'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Profaner+of+the+Dead&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Profaner+of+the+Dead&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Profaner+of+the+Dead
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/97031?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Profaner+of+the+Dead&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Profaner+of+the+Dead&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

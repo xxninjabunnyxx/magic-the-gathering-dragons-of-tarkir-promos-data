@@ -1,0 +1,116 @@
+---
+object: card
+id: f763c36a-9d3d-4dc8-98eb-ed4b5e938731
+oracle_id: f496e8cb-1d79-4a78-be15-fdb7e3d0de71
+multiverse_ids: []
+tcgplayer_id: 97030
+cardmarket_id: 282020
+name: Silumgar Assassin
+lang: en
+released_at: '2015-03-27'
+uri: https://api.scryfall.com/cards/f763c36a-9d3d-4dc8-98eb-ed4b5e938731
+scryfall_uri: https://scryfall.com/card/pdtk/121s/silumgar-assassin?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/7/f763c36a-9d3d-4dc8-98eb-ed4b5e938731.jpg?1562876331
+  normal: https://cards.scryfall.io/normal/front/f/7/f763c36a-9d3d-4dc8-98eb-ed4b5e938731.jpg?1562876331
+  large: https://cards.scryfall.io/large/front/f/7/f763c36a-9d3d-4dc8-98eb-ed4b5e938731.jpg?1562876331
+  png: https://cards.scryfall.io/png/front/f/7/f763c36a-9d3d-4dc8-98eb-ed4b5e938731.png?1562876331
+  art_crop: https://cards.scryfall.io/art_crop/front/f/7/f763c36a-9d3d-4dc8-98eb-ed4b5e938731.jpg?1562876331
+  border_crop: https://cards.scryfall.io/border_crop/front/f/7/f763c36a-9d3d-4dc8-98eb-ed4b5e938731.jpg?1562876331
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Creature — Human Assassin
+oracle_text: |-
+  Creatures with power greater than Silumgar Assassin's power can't block it.
+  Megamorph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+  When Silumgar Assassin is turned face up, destroy target creature with power 3 or less an opponent controls.
+power: '2'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Megamorph
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 7f424509-214f-4d0e-91ab-18a99e83afef
+set: pdtk
+set_name: Dragons of Tarkir Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/7f424509-214f-4d0e-91ab-18a99e83afef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdtk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdtk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f763c36a-9d3d-4dc8-98eb-ed4b5e938731/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af496e8cb-1d79-4a78-be15-fdb7e3d0de71&unique=prints
+collector_number: 121s
+digital: false
+rarity: rare
+watermark: silumgar
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Yohann Schepacz
+artist_ids:
+- c40c8ec8-d8b3-48a5-8de2-a7c96cbded5b
+illustration_id: 39e5a5e3-dc1e-4acf-a976-8ed0f376e017
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 7074
+penny_rank: 11205
+prices:
+  usd: 
+  usd_foil: '0.90'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.45'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Silumgar+Assassin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Silumgar+Assassin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Silumgar+Assassin
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/97030?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Silumgar+Assassin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Silumgar+Assassin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,118 @@
+---
+object: card
+id: d758033f-58d0-4ae6-9c31-58d7bd6e5856
+oracle_id: 44581d4f-746b-43b8-a34d-16dc383ab70e
+multiverse_ids: []
+tcgplayer_id: 97011
+cardmarket_id: 282035
+name: Dragonlord Silumgar
+lang: en
+released_at: '2015-03-27'
+uri: https://api.scryfall.com/cards/d758033f-58d0-4ae6-9c31-58d7bd6e5856
+scryfall_uri: https://scryfall.com/card/pdtk/220s/dragonlord-silumgar?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/7/d758033f-58d0-4ae6-9c31-58d7bd6e5856.jpg?1562876308
+  normal: https://cards.scryfall.io/normal/front/d/7/d758033f-58d0-4ae6-9c31-58d7bd6e5856.jpg?1562876308
+  large: https://cards.scryfall.io/large/front/d/7/d758033f-58d0-4ae6-9c31-58d7bd6e5856.jpg?1562876308
+  png: https://cards.scryfall.io/png/front/d/7/d758033f-58d0-4ae6-9c31-58d7bd6e5856.png?1562876308
+  art_crop: https://cards.scryfall.io/art_crop/front/d/7/d758033f-58d0-4ae6-9c31-58d7bd6e5856.jpg?1562876308
+  border_crop: https://cards.scryfall.io/border_crop/front/d/7/d758033f-58d0-4ae6-9c31-58d7bd6e5856.jpg?1562876308
+mana_cost: "{4}{U}{B}"
+cmc: 6.0
+type_line: Legendary Creature — Elder Dragon
+oracle_text: |-
+  Flying, deathtouch
+  When Dragonlord Silumgar enters the battlefield, gain control of target creature or planeswalker for as long as you control Dragonlord Silumgar.
+power: '3'
+toughness: '5'
+colors:
+- B
+- U
+color_identity:
+- B
+- U
+keywords:
+- Deathtouch
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 7f424509-214f-4d0e-91ab-18a99e83afef
+set: pdtk
+set_name: Dragons of Tarkir Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/7f424509-214f-4d0e-91ab-18a99e83afef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdtk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdtk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d758033f-58d0-4ae6-9c31-58d7bd6e5856/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A44581d4f-746b-43b8-a34d-16dc383ab70e&unique=prints
+collector_number: 220s
+digital: false
+rarity: mythic
+watermark: silumgar
+flavor_text: Silumgar never passes up an opportunity to add to his opulence.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: daabac12-fdf9-4f5d-8a2b-db1aac26a984
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 4183
+prices:
+  usd: 
+  usd_foil: '15.88'
+  usd_etched: 
+  eur: 
+  eur_foil: '7.25'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dragonlord+Silumgar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dragonlord+Silumgar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dragonlord+Silumgar
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/97011?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dragonlord+Silumgar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragonlord+Silumgar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

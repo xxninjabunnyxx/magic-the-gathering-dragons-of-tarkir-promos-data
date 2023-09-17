@@ -1,0 +1,115 @@
+---
+object: card
+id: 12a942d3-fb86-48aa-91c1-1fe41fa95e67
+oracle_id: 7c48c341-1d56-4210-9d86-181ebb206098
+multiverse_ids: []
+tcgplayer_id: 97028
+cardmarket_id: 282026
+name: Living Lore
+lang: en
+released_at: '2015-03-27'
+uri: https://api.scryfall.com/cards/12a942d3-fb86-48aa-91c1-1fe41fa95e67
+scryfall_uri: https://scryfall.com/card/pdtk/61s/living-lore?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/2/12a942d3-fb86-48aa-91c1-1fe41fa95e67.jpg?1562875770
+  normal: https://cards.scryfall.io/normal/front/1/2/12a942d3-fb86-48aa-91c1-1fe41fa95e67.jpg?1562875770
+  large: https://cards.scryfall.io/large/front/1/2/12a942d3-fb86-48aa-91c1-1fe41fa95e67.jpg?1562875770
+  png: https://cards.scryfall.io/png/front/1/2/12a942d3-fb86-48aa-91c1-1fe41fa95e67.png?1562875770
+  art_crop: https://cards.scryfall.io/art_crop/front/1/2/12a942d3-fb86-48aa-91c1-1fe41fa95e67.jpg?1562875770
+  border_crop: https://cards.scryfall.io/border_crop/front/1/2/12a942d3-fb86-48aa-91c1-1fe41fa95e67.jpg?1562875770
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Creature — Avatar
+oracle_text: |-
+  As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard.
+  Living Lore's power and toughness are each equal to the exiled card's mana value.
+  Whenever Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost.
+power: "*"
+toughness: "*"
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 7f424509-214f-4d0e-91ab-18a99e83afef
+set: pdtk
+set_name: Dragons of Tarkir Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/7f424509-214f-4d0e-91ab-18a99e83afef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdtk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdtk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/12a942d3-fb86-48aa-91c1-1fe41fa95e67/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7c48c341-1d56-4210-9d86-181ebb206098&unique=prints
+collector_number: 61s
+digital: false
+rarity: rare
+watermark: ojutai
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason Felix
+artist_ids:
+- af42a44c-8ec3-47a7-9047-5d29ddad186d
+illustration_id: 0f5e5ef2-e707-49d6-bcc5-3bdfd65c2684
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 14711
+penny_rank: 2830
+prices:
+  usd: 
+  usd_foil: '0.47'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.49'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Living+Lore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Living+Lore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Living+Lore
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/97028?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Living+Lore&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Living+Lore&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

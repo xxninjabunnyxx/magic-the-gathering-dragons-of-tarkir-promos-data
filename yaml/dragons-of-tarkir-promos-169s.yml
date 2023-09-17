@@ -1,0 +1,115 @@
+---
+object: card
+id: fdf3f74c-1d3c-423c-8a21-ebf8193c95a0
+oracle_id: 46808926-d95b-4313-89d1-6bdfe13fcb77
+multiverse_ids: []
+tcgplayer_id: 97035
+cardmarket_id: 282012
+name: Zurgo Bellstriker
+lang: en
+released_at: '2015-03-27'
+uri: https://api.scryfall.com/cards/fdf3f74c-1d3c-423c-8a21-ebf8193c95a0
+scryfall_uri: https://scryfall.com/card/pdtk/169s/zurgo-bellstriker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/d/fdf3f74c-1d3c-423c-8a21-ebf8193c95a0.jpg?1562876698
+  normal: https://cards.scryfall.io/normal/front/f/d/fdf3f74c-1d3c-423c-8a21-ebf8193c95a0.jpg?1562876698
+  large: https://cards.scryfall.io/large/front/f/d/fdf3f74c-1d3c-423c-8a21-ebf8193c95a0.jpg?1562876698
+  png: https://cards.scryfall.io/png/front/f/d/fdf3f74c-1d3c-423c-8a21-ebf8193c95a0.png?1562876698
+  art_crop: https://cards.scryfall.io/art_crop/front/f/d/fdf3f74c-1d3c-423c-8a21-ebf8193c95a0.jpg?1562876698
+  border_crop: https://cards.scryfall.io/border_crop/front/f/d/fdf3f74c-1d3c-423c-8a21-ebf8193c95a0.jpg?1562876698
+mana_cost: "{R}"
+cmc: 1.0
+type_line: Legendary Creature — Orc Warrior
+oracle_text: |-
+  Zurgo Bellstriker can't block creatures with power 2 or greater.
+  Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Dash
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: restricted
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 7f424509-214f-4d0e-91ab-18a99e83afef
+set: pdtk
+set_name: Dragons of Tarkir Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/7f424509-214f-4d0e-91ab-18a99e83afef
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdtk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdtk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fdf3f74c-1d3c-423c-8a21-ebf8193c95a0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A46808926-d95b-4313-89d1-6bdfe13fcb77&unique=prints
+collector_number: 169s
+digital: false
+rarity: rare
+watermark: kolaghan
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason Rainville
+artist_ids:
+- 6ed7e669-579b-443d-b223-e5cbcb2a7483
+illustration_id: 288d4d5e-2b76-4b58-bbf8-afcdc873270f
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 9938
+penny_rank: 449
+prices:
+  usd: 
+  usd_foil: '2.38'
+  usd_etched: 
+  eur: 
+  eur_foil: '3.70'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Zurgo+Bellstriker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Zurgo+Bellstriker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Zurgo+Bellstriker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/97035?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zurgo+Bellstriker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zurgo+Bellstriker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
